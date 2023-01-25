@@ -1,0 +1,12 @@
+******HI THESE ARE THE CONTROLS FOR THE GAME******
+
+1. Jump - Space Bar
+2. Move Forward - W
+3. Move Backward - s
+4. Move Left - A
+5. Move Right - D
+6. Fire Gun - Left Mouse Button
+7. Crouch - C
+8. Sprint - Shift + W
+
+#Reload takes place automatically when you're mag is finished. All you need to do is to collect the mag from the pickup
